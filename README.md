@@ -14,12 +14,16 @@ that are given by an codesoft. To Develop your skills based upon the writting th
 ## Number Game
 ![Number Game](https://github.com/iam-saipavan/CODSOFT-java-tasks/blob/3eecc15dd389d4f4c7f375027baa01715a0ea470/Screenshot%202024-12-04%20201258.png)
 
+## Student Grade
 ![Student Grade](https://github.com/iam-saipavan/CODSOFT-java-tasks/blob/3eecc15dd389d4f4c7f375027baa01715a0ea470/Screenshot%202024-12-05%20151916.png)
 
+## Quiz
 ![Quiz](https://github.com/iam-saipavan/CODSOFT-java-tasks/blob/3eecc15dd389d4f4c7f375027baa01715a0ea470/Screenshot%202024-12-05%20152027.png)
 
+## ATM Interface
 ![ATM Interface](https://github.com/iam-saipavan/CODSOFT-java-tasks/blob/3eecc15dd389d4f4c7f375027baa01715a0ea470/Screenshot%202024-12-05%20152347.png)
 
+## University Registration
 ![University Registration](https://github.com/iam-saipavan/CODSOFT-java-tasks/blob/3eecc15dd389d4f4c7f375027baa01715a0ea470/Screenshot%202024-12-05%20152128.png)
 
 ## Feedback
