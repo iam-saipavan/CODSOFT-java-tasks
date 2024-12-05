@@ -9,7 +9,7 @@ that are given by an codesoft. To Develop your skills based upon the writting th
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
-## Screenshots
+# Screenshots
 
 ## Number Game
 ![Number Game](https://github.com/iam-saipavan/CODSOFT-java-tasks/blob/3eecc15dd389d4f4c7f375027baa01715a0ea470/Screenshot%202024-12-04%20201258.png)
